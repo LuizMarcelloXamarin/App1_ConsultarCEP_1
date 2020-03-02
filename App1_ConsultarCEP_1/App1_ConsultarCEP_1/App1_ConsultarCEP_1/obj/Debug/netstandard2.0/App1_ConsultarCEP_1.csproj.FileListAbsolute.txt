@@ -1,0 +1,13 @@
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\bin\Debug\netstandard2.0\App1_ConsultarCEP_1.deps.json
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\bin\Debug\netstandard2.0\App1_ConsultarCEP_1.dll
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\App1_ConsultarCEP_1.csprojAssemblyReference.cache
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\App1_ConsultarCEP_1.AssemblyInfoInputs.cache
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\App1_ConsultarCEP_1.AssemblyInfo.cs
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\bin\Debug\netstandard2.0\ref\App1_ConsultarCEP_1.dll
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\bin\Debug\netstandard2.0\App1_ConsultarCEP_1.pdb
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\App1_ConsultarCEP_1.dll
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\ref\App1_ConsultarCEP_1.dll
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\obj\Debug\netstandard2.0\App1_ConsultarCEP_1.pdb

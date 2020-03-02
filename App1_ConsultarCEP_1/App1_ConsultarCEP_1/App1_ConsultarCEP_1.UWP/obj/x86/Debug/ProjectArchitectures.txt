@@ -1,0 +1,1 @@
+C:\github_xamarin\App1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1\App1_ConsultarCEP_1.UWP\App1_ConsultarCEP_1.UWP.csproj;x86
